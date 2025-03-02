@@ -1,4 +1,4 @@
-lion Shiv 
+lion 
 tiger
 leopard
 turtle
